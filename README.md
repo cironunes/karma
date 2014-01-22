@@ -73,8 +73,7 @@ want to live life on the edge you can do so by
 $ npm install -g karma@canary
 ```
 
-The curious can have a look at the documentation articles for
-[Getting Started] and [Versioning].
+The curious can have a look at the documentation article for [Versioning].
 
 ### Using it.
 
